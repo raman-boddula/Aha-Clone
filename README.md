@@ -1,7 +1,6 @@
 # Aha Clone
-**Note : This project is made just for educational purposes**
 
-We cloned the OTT Platform aha.com as a construct week project at masai unit 5.
+<p>Aha is a online OTT platfrom which has a set of south indian content .Such as movies ,episodes shows,...etc</p>
 
 <span>
 <div style="margin:auto; display:flex; items:center; justify-content:center">
